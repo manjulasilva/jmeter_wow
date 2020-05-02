@@ -1,0 +1,14 @@
+
+
+Write  Test Machine  Customer class
+
+Generate Random User
+
+Generate Random Password
+
+Create Login
+
+Activate Login
+
+Login using above user
+(parameter pass among tests required)
